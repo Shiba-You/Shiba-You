@@ -39,8 +39,8 @@ I'm Shiba-You.
 
 ## Github Status
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact" />
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight" />
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact" />
 </div>
 <!-- [![Anurag's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
