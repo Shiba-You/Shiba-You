@@ -2,8 +2,6 @@
 
 I'm Shiba-You. 
 
-## Github Status
-
 <p align="left"> 
   <a href="https://github.com/Shiba-You/Shiba-You/">
     <img src="https://komarev.com/ghpvc/?username=Shiba-You" alt="Shiba-You" />
@@ -37,8 +35,15 @@ I'm Shiba-You.
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+## Github Status
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact" />
+</div>
+<!-- [![Anurag's GitHub stats]()](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
