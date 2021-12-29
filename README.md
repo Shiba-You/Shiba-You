@@ -37,17 +37,24 @@
   Skill Stack
 </h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-
   <!-- 言語系 -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat?logoColor=yellow" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-0082ff.svg?logo=javascript&style=popout">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-ffff1b.svg?logo=typescript&style=popout">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-ffec00.svg?logo=python&style=popout">
+  <img alt="css3" src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
+  <img alt="html5" src="https://img.shields.io/badge/-Html5-220000.svg?logo=html5&style=popout">
+
+  <!-- フレームワーク・ライブラリ -->
+  <img alt="vue" src="https://img.shields.io/badge/-Vue.js-3669ff.svg?logo=vue.js&style=popout">
+  <img alt="react" src="https://img.shields.io/badge/-React-2dc000.svg?logo=react&style=popout">
+  <img alt="next" src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=popout">
+  <img alt="nuxt" src="https://img.shields.io/badge/-Nuxt.js-2d70ff.svg?logo=nuxt.js&style=popout">
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC.svg?logo=redux&style=popout">
+  <img alt="sass" src="https://img.shields.io/badge/-Sass-ffff00.svg?logo=sass&style=popout">
+  <img alt="node" src="https://img.shields.io/badge/-Node.js-3400ff.svg?logo=node.js&style=popout">
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=popout">
+
+
 
   <!-- クラウド系 -->
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square" />
@@ -61,6 +68,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 </p>
+
 
 <h3>
   Github Status
