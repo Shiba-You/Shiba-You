@@ -44,7 +44,7 @@ I'm Shiba-You.
 </div>
 
 <div>
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight" />
+  <img width="900" src="https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight" />
 </div>
 
 ## Language skills
