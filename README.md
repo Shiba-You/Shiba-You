@@ -13,12 +13,6 @@ I'm Shiba-You.
   <a href="https://github.com/Shiba-You">
     <img height="20" src="https://img.shields.io/github/followers/Shiba-You?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/Shiba-You">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/Shiba-You?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/Shiba-You">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
   <a href="https://zenn.dev/yutakatay">
     <img height="20" src="https://zenn.badge.nikaera.com/s/yutakatay/likes" />
   </a>
@@ -32,6 +26,12 @@ I'm Shiba-You.
     <img height="20" src="https://qiita-badge.apiapi.app/s/Shiba-You/posts.svg" />
   </a>
   <a href="http://qiita.com/Shiba-You">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Shiba-You/posts.svg" />
+  </a>
+  <a href="http://qiita.com/Shiba-You">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Shiba-You/contributions.svg" />
+  </a>
+  <a href="http://qiita.com/Shiba-You">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Shiba-You/followers.svg" />
   </a>
 </p>
