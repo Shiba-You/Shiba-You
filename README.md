@@ -62,13 +62,17 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
 </p>
 
-
-### Github Status
+<h3>
+  Github Status
+</h3>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact" />
 </div>
 
+<h3>
+  Github rophy
+</h3>
 <div>
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight" />
 </div>
