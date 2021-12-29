@@ -1,8 +1,16 @@
-# Hi there 👋
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hey! Nice to see you. I'm Shiba-You!
+</h1>
 
-I'm Shiba-You. 
+<p>
+  Welcome to my page! <br />
+  I'm Shiba-You, Amateur engineer at Kyushu Univ.
+</p>
 
-## 
+<h2>
+  Skill Stack
+</h2>
 
 <p align="left"> 
   <a href="https://github.com/Shiba-You/Shiba-You/">
