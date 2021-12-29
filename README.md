@@ -38,3 +38,5 @@ I'm Shiba-You.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiba-You&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiba-You&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
