@@ -34,7 +34,7 @@
 
 
 <h3>
-  Skill Stack
+  Things I code with
 </h3>
 <p>
   <!-- 参考 -->
