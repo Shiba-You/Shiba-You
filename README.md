@@ -110,3 +110,5 @@
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=Shiba-You&theme=tokyonight" />
 </div>
 
+
+<img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-Yoou WakaTime Activity"/>
