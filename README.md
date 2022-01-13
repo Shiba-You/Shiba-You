@@ -115,3 +115,6 @@
   WakaTIme Status
 </h3>
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
