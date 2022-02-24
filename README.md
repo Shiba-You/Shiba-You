@@ -117,13 +117,13 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 451 Contributions in the Year 2022
+> 🏆 450 Contributions in the Year 2022
  > 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
@@ -201,5 +201,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 00:48:40 UTC
+ Last Updated on 24/02/2022 00:52:27 UTC
 <!--END_SECTION:waka-->
