@@ -117,7 +117,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -201,5 +201,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 00:51:54 UTC
+ Last Updated on 21/06/2022 00:56:37 UTC
 <!--END_SECTION:waka-->
