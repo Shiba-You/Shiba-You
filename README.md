@@ -117,9 +117,9 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-761%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-762%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -160,16 +160,22 @@ Sunday                   580 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               30 mins             ██████████████░░░░░░░░░░░   56.36 % 
+JavaScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Docker                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AwesomeProject           30 mins             ██████████████░░░░░░░░░░░   56.36 % 
+AwsomeProject            15 mins             ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+06_reactNative           8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -189,5 +195,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 00:37:58 UTC
+ Last Updated on 26/10/2023 00:37:09 UTC
 <!--END_SECTION:waka-->
