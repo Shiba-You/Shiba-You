@@ -99,16 +99,18 @@ Sunday                   581 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       11 mins             ███████████████████████░░   92.59 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+01_hello_world           12 mins             █████████████████████████   98.16 % 
+02_gacha-ja              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +130,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 03:08:31 UTC
+ Last Updated on 08/03/2024 00:38:17 UTC
 <!--END_SECTION:waka-->
