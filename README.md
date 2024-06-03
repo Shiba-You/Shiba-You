@@ -56,7 +56,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -64,7 +64,7 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 3 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,17 +99,20 @@ Sunday                   581 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-YAML                     0 secs              ████████████████████████░   97.46 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript               5 mins              ███████████████████████░░   92.07 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-08_aws                   0 secs              █████████████████████████   100.00 % 
+testApp                  5 mins              ███████████████████████░░   92.37 % 
+08_aws                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +132,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2024 15:01:17 UTC
+ Last Updated on 03/06/2024 15:03:33 UTC
 <!--END_SECTION:waka-->
