@@ -56,15 +56,11 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,20 +95,17 @@ Sunday                   581 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 19 mins       ███████████████████████░░   91.87 % 
-Swift                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-XML                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               6 hrs 28 mins       █████████████████████████   99.99 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontendApp              10 hrs 8 mins       █████████████████████████   100.00 % 
+frontendApp              6 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,5 +125,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 06:20:40 UTC
+ Last Updated on 16/06/2024 00:46:15 UTC
 <!--END_SECTION:waka-->
