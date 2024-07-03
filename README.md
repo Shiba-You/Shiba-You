@@ -56,7 +56,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-851%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -99,20 +99,20 @@ Sunday                   590 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 38 mins       █████████████████░░░░░░░░   68.98 % 
-JavaScript               2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               6 hrs 5 mins        ██████████████████░░░░░░░   71.17 % 
+JavaScript               2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontendApp              4 hrs 39 mins       █████████████████░░░░░░░░   69.14 % 
-backendApp               2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
+frontendApp              6 hrs 5 mins        ██████████████████░░░░░░░   71.30 % 
+backendApp               2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
 
 💻 Operating System: 
-Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,5 +132,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 02:05:47 UTC
+ Last Updated on 03/07/2024 00:44:24 UTC
 <!--END_SECTION:waka-->
