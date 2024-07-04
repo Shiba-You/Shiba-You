@@ -56,13 +56,15 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-852%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 28 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,20 +99,21 @@ Sunday                   590 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 5 mins        ██████████████████░░░░░░░   71.17 % 
-JavaScript               2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+TypeScript               6 hrs 25 mins       ██████████████████░░░░░░░   73.03 % 
+JavaScript               2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontendApp              6 hrs 5 mins        ██████████████████░░░░░░░   71.30 % 
-backendApp               2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+frontendApp              6 hrs 26 mins       ██████████████████░░░░░░░   73.16 % 
+backendApp               2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
 
 💻 Operating System: 
-Mac                      8 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,5 +133,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2024 08:58:00 UTC
+ Last Updated on 04/07/2024 00:43:56 UTC
 <!--END_SECTION:waka-->
