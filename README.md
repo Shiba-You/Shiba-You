@@ -64,6 +64,8 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
+> 🏆 45 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -129,5 +131,5 @@ TeX                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2024 19:16:37 UTC
+ Last Updated on 11/08/2024 19:19:21 UTC
 <!--END_SECTION:waka-->
