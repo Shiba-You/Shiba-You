@@ -56,7 +56,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -99,18 +99,18 @@ Sunday                   613 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 58 mins       █████████████████████████   99.78 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               7 hrs 39 mins       █████████████████████████   99.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-02_cfn-drawer            6 hrs 57 mins       █████████████████████████   99.56 % 
-04_cfn-drawer            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+02_cfn-drawer            7 hrs 38 mins       █████████████████████████   99.60 % 
+04_cfn-drawer            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,5 +130,5 @@ TeX                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2024 02:11:26 UTC
+ Last Updated on 15/08/2024 00:44:31 UTC
 <!--END_SECTION:waka-->
