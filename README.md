@@ -64,8 +64,6 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -99,16 +97,16 @@ Sunday                   625 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SQL                      1 hr 46 mins        █████████████████████████   100.00 % 
+SQL                      44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nri-5-sprint.database-par1 hr 46 mins        █████████████████████████   100.00 % 
+nri-5-sprint.database-par44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 46 mins        █████████████████████████   100.00 % 
+Mac                      44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +126,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2024 01:35:22 UTC
+ Last Updated on 07/10/2024 00:58:11 UTC
 <!--END_SECTION:waka-->
