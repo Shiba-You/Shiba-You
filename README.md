@@ -64,7 +64,7 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2024
+> 🏆 100 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,16 +99,16 @@ Sunday                   626 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nri-5-sprint.knex        3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,5 +128,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 02:14:28 UTC
+ Last Updated on 13/10/2024 00:58:26 UTC
 <!--END_SECTION:waka-->
