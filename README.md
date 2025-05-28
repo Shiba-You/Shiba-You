@@ -64,8 +64,6 @@
 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -128,5 +126,5 @@ WebAssembly              1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 01:42:45 UTC
+ Last Updated on 28/05/2025 01:05:40 UTC
 <!--END_SECTION:waka-->
