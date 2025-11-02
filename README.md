@@ -56,6 +56,8 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -97,16 +99,21 @@ Sunday                   700 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████████░░░░░░░░   67.88 % 
+YAML                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+py_note                  11 mins             █████████████████░░░░░░░░   67.88 % 
+PeerTube                 5 mins              ████████░░░░░░░░░░░░░░░░░   32.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,5 +133,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 15:02:32 UTC
+ Last Updated on 02/11/2025 15:06:44 UTC
 <!--END_SECTION:waka-->
