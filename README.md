@@ -99,21 +99,16 @@ Sunday                   700 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████░░░░░░░░   67.88 % 
-YAML                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-py_note                  11 mins             █████████████████░░░░░░░░   67.88 % 
-PeerTube                 5 mins              ████████░░░░░░░░░░░░░░░░░   32.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,5 +128,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 14:59:55 UTC
+ Last Updated on 09/11/2025 15:03:45 UTC
 <!--END_SECTION:waka-->
