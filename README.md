@@ -58,7 +58,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -99,21 +99,16 @@ Sunday                   609 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 20 mins             ████████████░░░░░░░░░░░░░   47.99 % 
-JSON                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Terraform                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-04_cfn_draw              35 mins             █████████████████████░░░░   85.57 % 
-cfn-draw                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +128,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 13:58:26 UTC
+ Last Updated on 19/02/2026 01:23:24 UTC
 <!--END_SECTION:waka-->
