@@ -56,7 +56,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -99,16 +99,21 @@ Sunday                   609 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               52 mins             █████████████░░░░░░░░░░░░   53.32 % 
+Terraform                35 mins             █████████░░░░░░░░░░░░░░░░   36.29 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cfn-draw                 1 hr 21 mins        █████████████████████░░░░   83.19 % 
+04_cfn_draw              16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,5 +133,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 15:02:24 UTC
+ Last Updated on 08/03/2026 15:05:50 UTC
 <!--END_SECTION:waka-->
