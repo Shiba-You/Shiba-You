@@ -56,7 +56,7 @@
 <img src="https://github.com/Shiba-You/Shiba-You/blob/main/images/stat.svg" alt="Shiba-You WakaTime Activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C106%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -72,6 +72,48 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌆 Daytime                2242 commits        ████████████░░░░░░░░░░░░░   47.72 % 
+🌃 Evening                1525 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Sunday                   603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+YAML                     2 hrs 17 mins       ████████████████████████░   97.06 % 
+PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+devops-starter-pack      2 hrs 17 mins       ████████████████████████░   96.58 % 
+webapp                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+
+💻 Operating System: 
+Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -89,5 +131,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2026 15:13:26 UTC
+ Last Updated on 26/04/2026 15:20:57 UTC
 <!--END_SECTION:waka-->
