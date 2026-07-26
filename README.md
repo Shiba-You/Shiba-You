@@ -75,21 +75,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-🌆 Daytime                2217 commits        ████████████░░░░░░░░░░░░░   47.59 % 
-🌃 Evening                1518 commits        ████████░░░░░░░░░░░░░░░░░   32.58 % 
-🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+🌞 Morning                421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+🌆 Daytime                2242 commits        ████████████░░░░░░░░░░░░░   47.72 % 
+🌃 Evening                1525 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   715 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Tuesday                  708 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Wednesday                897 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Thursday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Friday                   611 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Sunday                   601 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Monday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Tuesday                  718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Thursday                 758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Sunday                   603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 
@@ -99,24 +99,22 @@ Sunday                   601 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Java                     3 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.99 % 
-SQL                      1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-HTML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-XML                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+SQL                      1 hr 6 mins         ██████████████░░░░░░░░░░░   55.19 % 
+JavaScript               28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Java                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 58 mins       █████████████████████░░░░   83.52 % 
-Claude Code              1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+VS Code                  1 hr 52 mins        ███████████████████████░░   93.41 % 
+Claude Code              7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🐱‍💻 Projects: 
-04_taskmate              5 hrs 51 mins       █████████████████████░░░░   82.01 % 
-materials                1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-taskmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-taskmateEx3              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+materials                1 hr 15 mins        ████████████████░░░░░░░░░   62.92 % 
+04_taskmate              44 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
 
 💻 Operating System: 
-Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +134,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 11:00:45 UTC
+ Last Updated on 26/07/2026 02:01:27 UTC
 <!--END_SECTION:waka-->
