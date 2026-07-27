@@ -99,18 +99,16 @@ Sunday                   603 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-SQL                      13 mins             ███████████████░░░░░░░░░░   59.79 % 
-HTML                     9 mins              ██████████░░░░░░░░░░░░░░░   40.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             ████████████████░░░░░░░░░   65.75 % 
-Claude Code              7 mins              █████████░░░░░░░░░░░░░░░░   34.25 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-materials                23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,5 +128,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 15:00:01 UTC
+ Last Updated on 27/07/2026 15:08:59 UTC
 <!--END_SECTION:waka-->
