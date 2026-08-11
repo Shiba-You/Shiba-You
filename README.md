@@ -101,22 +101,48 @@ Sunday                   603 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 10 mins       ███████████████░░░░░░░░░░   60.71 % 
+Docker                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 19 mins       ████████████████░░░░░░░░░   63.62 % 
+VS Code                  1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   36.38 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TripLog                  3 hrs 1 min         ██████████████░░░░░░░░░░░   57.69 % 
+adventure_logs           2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.91 % 
+self-reviewer            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+02_TripLog               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+yosuke_shibata           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 2 mins (96.35%)
+
+✍️ 5,498 lines written by AI, 21 lines written by hand (99.62% AI-written)
+
+🔤 1,444,325 Input Tokens, 442,515 Output Tokens
+
+💵 $20.52 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 61 AI Prompts
+
+Sonnet                   5,547 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.62% of written lines came from AI
+📚 Verbose Prompter — average 1,670 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,5 +162,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 15:01:38 UTC
+ Last Updated on 11/08/2026 15:08:52 UTC
 <!--END_SECTION:waka-->
