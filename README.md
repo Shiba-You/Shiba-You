@@ -77,21 +77,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-🌆 Daytime                2250 commits        ████████████░░░░░░░░░░░░░   47.76 % 
-🌃 Evening                1530 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+🌞 Morning                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌆 Daytime                294 commits         ███████████████░░░░░░░░░░   58.57 % 
+🌃 Evening                111 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Tuesday                  731 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Thursday                 758 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Saturday                 384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Sunday                   603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Tuesday                  84 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Thursday                 91 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Friday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Saturday                 29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Sunday                   184 commits         █████████░░░░░░░░░░░░░░░░   36.65 % 
 ```
 
 
@@ -162,5 +162,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 14:37:38 UTC
+ Last Updated on 16/08/2026 14:45:39 UTC
 <!--END_SECTION:waka-->
