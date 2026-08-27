@@ -60,7 +60,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -159,5 +159,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 11:56:25 UTC
+ Last Updated on 27/08/2026 12:01:13 UTC
 <!--END_SECTION:waka-->
