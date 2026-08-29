@@ -77,21 +77,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-🌆 Daytime                2277 commits        ████████████░░░░░░░░░░░░░   47.96 % 
-🌃 Evening                1540 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+🌞 Morning                426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                2291 commits        ████████████░░░░░░░░░░░░░   48.05 % 
+🌃 Evening                1541 commits        ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌙 Night                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Tuesday                  752 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Wednesday                900 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Thursday                 758 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   615 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Monday                   726 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Tuesday                  753 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                901 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Thursday                 759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Friday                   618 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Sunday                   612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 
@@ -101,45 +101,45 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               1 hr 40 mins        ████████████░░░░░░░░░░░░░   47.38 % 
-Markdown                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Java                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               48 mins             █████████████░░░░░░░░░░░░   52.29 % 
+Java                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 10 mins       ██████████████████████░░░   89.78 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Claude Code              1 hr 25 mins        ███████████████████████░░   93.02 % 
+VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🐱‍💻 Projects: 
-TripLog                  3 hrs 22 mins       ████████████████████████░   95.17 % 
-02_TripLog               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+TripLog                  1 hr 31 mins        █████████████████████████   99.87 % 
+02_TripLog               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (96.11%)
+⏱ AI Coding Time: 1 hr 32 mins (100.0%)
 
-✍️ 9,449 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 5,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,366,750 Input Tokens, 680,312 Output Tokens
+🔤 1,306,896 Input Tokens, 310,067 Output Tokens
 
-💵 $49.10 Estimated AI Cost This Week
+💵 $23.91 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 35 AI Prompts
+🧠 3 AI Sessions, 13 AI Prompts
 
-Sonnet                   9,578 lines         █████████████████████████   100.00 % 
+Sonnet                   5,276 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 802 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.51% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,820 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,5 +159,5 @@ WebAssembly              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Shiba-You/Shiba-You/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 15:01:15 UTC
+ Last Updated on 29/08/2026 15:05:52 UTC
 <!--END_SECTION:waka-->
